@@ -1,0 +1,21 @@
+{
+  "name": "firebase_util_fix",
+  "version": "1",
+  "homepage": "https://github.com/ricardovm91/firebase_util_fix",
+  "_release": "f89c74557d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f89c74557d798718e9d9ed1c70e1300dccfd6433"
+  },
+  "description": "Temporary isArguments fix for Safari",
+  "main": "firebase-util.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*"
+  ],
+  "_source": "https://github.com/ricardovm91/firebase_util_fix.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/ricardovm91/firebase_util_fix.git"
+}
